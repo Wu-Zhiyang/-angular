@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wzy1502"
+    }
+  },
+  "defaultProject": "wzy1502",
+  "cli": {
+    "analytics": false
+  }
 }
